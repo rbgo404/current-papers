@@ -9,3 +9,7 @@ A collection of research papers and short notes, organized by topic. The [`evals
 - [AgentNoiseBench](evals/AgentNoiseBench.md): Robustness of tool-using agents under noisy conditions.
 
 Each entry includes the original source and paper-specific license information. Reading notes can be added as the collection grows.
+
+## Reading queue
+
+[To be read](To%20be%20read/): Seven additional papers on difficult LLM and agent evaluations.
