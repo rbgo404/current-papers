@@ -6,6 +6,9 @@ A collection of research papers and short notes, organized by topic. The [`evals
 
 - [AgentAbstain](evals/AgentAbstain.md), started November 12, 2026.
 
+- [Bench2Robust](evals/Bench2Robust.md), started November 12, 2026.
+- [AgentPerturb](evals/AgentPerturb.md), started November 12, 2026.
+
 ## Papers
 
 - [TASTE](evals/TASTE.md): Improving the coverage and difficulty of agent benchmarks.
