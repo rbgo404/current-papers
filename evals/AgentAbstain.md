@@ -1,6 +1,7 @@
 # AgentAbstain: Do LLM Agents Know When Not to Act?
 
-- **Status:** To be read
+- **Status:** Currently reading
+- **Started reading:** 2026-11-12
 - **Authors:** Xun Liu, Yi Evie Zhang, Vira Kasprova, Parisa Rabbani, Pardis Sadat Zahraei, Tianyu Zhang, Ali Ebrahimpour-Boroojeny, and Varun Chandrasekaran
 - **Source:** [Original paper record](https://arxiv.org/abs/2607.10059v1)
 - **PDF:** [Original PDF](https://arxiv.org/pdf/2607.10059v1)

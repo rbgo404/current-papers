@@ -2,6 +2,10 @@
 
 A collection of research papers and short notes, organized by topic. The [`evals/`](evals/) folder starts with work on agent evaluation and benchmark generation.
 
+## Currently reading
+
+- [AgentAbstain](evals/AgentAbstain.md), started November 12, 2026.
+
 ## Papers
 
 - [TASTE](evals/TASTE.md): Improving the coverage and difficulty of agent benchmarks.
@@ -12,4 +16,4 @@ Each entry includes the original source and paper-specific license information. 
 
 ## Reading queue
 
-[To be read](To%20be%20read/): Seven additional papers on difficult LLM and agent evaluations.
+[To be read](To%20be%20read/): Six additional papers on difficult LLM and agent evaluations.
