@@ -1,6 +1,7 @@
 # GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
 
-- **Status:** To be read
+- **Status:** To be read (next planned read)
+- **Planned:** 2026-11-13
 - **Authors:** Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, and Mehrdad Farajtabar
 - **Source:** [Original paper record](https://arxiv.org/abs/2410.05229v2)
 - **PDF:** [Original PDF](https://arxiv.org/pdf/2410.05229v2)
