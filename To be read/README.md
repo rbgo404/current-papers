@@ -9,6 +9,8 @@ Reading queue for papers on difficult LLM and agent evaluations. Added November 
 - [ ] [AutoBencher](AutoBencher.md): Iterative search over dataset descriptions uses evaluation feedback to find difficult and informative question categories.
 - [ ] [BreakingWeb](BreakingWeb.md): Matched clean/intervention browser tasks keep instructions and success criteria fixed while changing the environment.
 
+- [ ] [CascadeBench](CascadeBench.md): Planned read. Enterprise cascade prediction under changing deployment rules.
+
 [AgentAbstain](../evals/AgentAbstain.md) is currently being read (started November 12, 2026).
 
 [AgentNoiseBench](../evals/AgentNoiseBench.md) remains in `evals/` as the separately selected paper. Entries link to original papers and PDFs rather than storing copies. No reading completion dates are assumed.
