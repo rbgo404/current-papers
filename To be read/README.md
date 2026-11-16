@@ -1,6 +1,6 @@
 # To be read
 
-Reading queue for papers on difficult LLM and agent evaluations. Added November 11, 2026.
+Reading queue for papers on language modeling, difficult LLM evaluations, and agent evaluations.
 
 - [ ] [ToolMaze](ToolMaze.md): Dependency-graph tasks with explicit or implicit, transient or permanent tool failures test recovery and replanning.
 - [ ] [BBEH](BBEH.md): Harder counterparts to BIG-Bench Hard tasks use rule precedence, reconstruction, dependencies, and distractors.
@@ -10,6 +10,9 @@ Reading queue for papers on difficult LLM and agent evaluations. Added November 
 - [ ] [BreakingWeb](BreakingWeb.md): Matched clean/intervention browser tasks keep instructions and success criteria fixed while changing the environment.
 
 - [ ] [CascadeBench](CascadeBench.md): Planned read. Enterprise cascade prediction under changing deployment rules.
+
+- [ ] [Shannon (1951): Prediction and Entropy of Printed English](Shannon-1951.md): Planned read. Next-letter prediction and the entropy of English; cited as Shannon 1950 in the lecture.
+- [ ] [Brants et al. (2007): Large Language Models in Machine Translation](Brants-2007.md): Planned read. Large-scale n-gram language modeling and Stupid Backoff.
 
 [AgentAbstain](../evals/AgentAbstain.md) is currently being read (started November 12, 2026).
 

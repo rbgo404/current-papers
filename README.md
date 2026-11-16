@@ -21,4 +21,4 @@ Each entry includes the original source and paper-specific license information. 
 
 ## Reading queue
 
-[To be read](To%20be%20read/): Seven additional papers on difficult LLM and agent evaluations.
+[To be read](To%20be%20read/): Nine papers on language modeling, difficult LLM evaluations, and agent evaluations.
