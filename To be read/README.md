@@ -33,6 +33,41 @@ Reading queue for papers on language modeling, difficult LLM evaluations, and ag
 - [ ] [PaLM: Scaling Language Modeling with Pathways](PaLM-2022.md): Planned read.
 - [ ] [Training Compute-Optimal Large Language Models](Chinchilla-2022.md): Planned read.
 
+## Open models and related sources
+
+- [ ] [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](The-Pile.md): Planned read.
+- [ ] [OPT: Open Pre-trained Transformer Language Models](OPT.md): Planned read.
+- [ ] [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](BLOOM.md): Planned read.
+- [ ] [LLaMA: Open and Efficient Foundation Language Models](LLaMA.md): Planned read.
+- [ ] [Llama 2: Open Foundation and Fine-Tuned Chat Models](Llama-2.md): Planned read.
+- [ ] [The Llama 3 Herd of Models](Llama-3.md): Planned read.
+- [ ] [Mistral 7B](Mistral-7B.md): Planned read.
+- [ ] [Mixtral of Experts](Mixtral.md): Planned read.
+- [ ] [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](DeepSeek-LLM.md): Planned read.
+- [ ] [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](DeepSeek-V2.md): Planned read.
+- [ ] [DeepSeek-V3 Technical Report](DeepSeek-V3.md): Planned read.
+- [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](DeepSeek-R1.md): Planned read.
+- [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](DeepSeek-V3.2.md): Planned read.
+- [ ] [Qwen2.5 Technical Report](Qwen2.5.md): Planned read.
+- [ ] [Qwen3 Technical Report](Qwen3.md): Planned read.
+- [ ] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](Kimi-k1.5.md): Planned read.
+- [ ] [Kimi K2.5: Visual Agentic Intelligence](Kimi-K2.5.md): Planned read.
+- [ ] [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](GLM-4.5.md): Planned read.
+- [ ] [GLM-5: from Vibe Coding to Agentic Engineering](GLM-5.md): Planned read.
+- [ ] [OLMo: Accelerating the Science of Language Models](OLMo.md): Planned read.
+- [ ] [2 OLMo 2 Furious](OLMo-2.md): Planned read.
+- [ ] [Olmo 3](Olmo-3.md): Planned read.
+- [ ] [Nemotron-4 15B Technical Report](Nemotron-4-15B.md): Planned read.
+- [ ] [NVIDIA Nemotron 3: Efficient and Open Intelligence](Nemotron-3.md): Planned read.
+- [ ] [On the Societal Impact of Open Foundation Models](Open-Foundation-Models-Societal-Impact.md): Planned read.
+- [ ] [GPT-J-6B: 6B JAX-Based Transformer](GPT-J.md): Planned read. Author release article (not a formal paper).
+- [ ] [MiniMax M2.5: Built for Real-World Productivity](MiniMax-M2.5.md): Planned read. Official model release announcement.
+- [ ] [Xiaomi MiMo-V2-Pro](MiMo-V2-Pro.md): Planned read. Official model release announcement.
+- [ ] [Marin 8B Retro](Marin-8B-Retro.md): Planned read. Project training retrospective.
+- [ ] [Marin 32B Retro](Marin-32B-Retro.md): Planned read. Project training retrospective.
+
+## Related reading status
+
 [AgentAbstain](../evals/AgentAbstain.md) is currently being read (started November 12, 2026).
 
 [AgentNoiseBench](../evals/AgentNoiseBench.md) remains in `evals/` as the separately selected paper. Entries link to original papers and PDFs rather than storing copies. No reading completion dates are assumed.
